@@ -1,6 +1,3 @@
-from random import randint
-import time
-
 class InsertionSort:
 
     def __init__(self):
